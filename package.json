@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emilia1999/emilia1999.github.io.git"
+    "url": "git+https://github.com/temafeed1996/temafeed1996.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/emilia1999/emilia1999.github.io/issues"
+    "url": "https://github.com/temafeed1996/temafeed1996.github.io/issues"
   },
-  "homepage": "https://github.com/emilia1999/emilia1999.github.io#readme",
+  "homepage": "https://github.com/temafeed1996/temafeed1996.github.io#readme",
   "dependencies": {
     "jquery": "^3.5.1",
     "normalize.css": "^8.0.1"
